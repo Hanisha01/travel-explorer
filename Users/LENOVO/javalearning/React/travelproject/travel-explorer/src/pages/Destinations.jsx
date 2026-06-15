@@ -98,17 +98,8 @@ if (sort === "low") {
 
  return (
    <>
-   <div className="page-header">
 
-  <h1>
-    Explore Destinations
-  </h1>
-
-  <p>
-    Discover beautiful places around the world
-  </p>
-
-</div>
+     <h1>Popular Destinations</h1>
    <Link to="/add-destination" className='submit-btn'>
  Add Destination
 </Link>

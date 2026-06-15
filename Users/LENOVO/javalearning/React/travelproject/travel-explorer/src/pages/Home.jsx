@@ -81,15 +81,7 @@ function Home() {
           <p>Destinations</p>
         </div>
 
-        <div>
-          <h2>50+</h2>
-          <p>Countries</p>
-        </div>
-
-        <div>
-          <h2>4.9★</h2>
-          <p>Ratings</p>
-        </div>
+       
 
       </section>
       <section className="cta-section">
