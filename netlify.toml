@@ -1,0 +1,4 @@
+[build]
+  base = "Users/LENOVO/javalearning/React/travelproject/travel-explorer"
+  publish = "dist"
+  command = "npm install && npm run build"
